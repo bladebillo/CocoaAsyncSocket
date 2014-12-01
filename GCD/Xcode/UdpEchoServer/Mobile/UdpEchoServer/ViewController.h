@@ -9,5 +9,6 @@
 }
 
 - (IBAction)startStop:(id)sender;
+- (NSString *) addressFromData:(NSData *) addressData;
 
 @end
